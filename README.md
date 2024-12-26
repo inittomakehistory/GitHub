@@ -23,6 +23,6 @@ This API allows users to log their health and fitness activities, set fitness go
     pip install -r requirements.txt
     ```
  ## AUTHORS 
-JENNIFER 
+ boadua jennifer
 
 VICTORIA 
